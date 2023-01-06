@@ -1,4 +1,4 @@
-# Hackathon-submissions
+# 2022 - October Hackathon-submissions
 We have had some issues - just forking /cloning all the submissions here
 
 Instead we have all of the results posted in our Discord and on our Forum
